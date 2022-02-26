@@ -1,5 +1,7 @@
 # Oil_Pipeline_Accidents
 
+![image](https://github.com/Atharva-D/git-mlsc/blob/main/Pipeline%20map.gif)
+
 ## Inspiration
 
 ## What it does
