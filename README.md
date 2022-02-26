@@ -1,6 +1,6 @@
 # Oil_Pipeline_Accidents
 
-![image](https://github.com/Atharva-D/git-mlsc/blob/main/Pipeline%20map.gif)
+![image](https://github.com/Atharva-D/git-mlsc/blob/main/pipeline_incidents.png)
 
 ## Inspiration
 **Pipelines** carrying oil and gas in the United States are not adequately regulated, inspected, or enforced. The three types of pipelines: natural gas transmission lines, which transport natural gas from production areas to processing plants and municipal distribution areas, liquids (including oil), and natural gas distribution lines, which transport gas from plants to customers, all have a troubled history of spills, contamination, injuries, and deaths.<br/>
