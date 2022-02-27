@@ -45,3 +45,8 @@ We learned about various libraries such as NumPy, Pandas, Matplotlib, Seaborn, P
 
 ## What's next for Opalution
 As we analyzed the dataset we came to a conclusion that the major two reason of this leakage is equipment failure and corrosion, and to over come that we are planning to use a ultrasonic testing which check for the width of the pipe and which help the user to know about the probability of the accident.
+
+
+
+
+## PPT LINK: https://www.canva.com/design/DAE5hWyY6Qw/4CiyaXxUgtm5pwlgialGvw/view?utm_content=DAE5hWyY6Qw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
