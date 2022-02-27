@@ -23,11 +23,21 @@ There is a need to bring this issue into limelight by addressing it publicly and
 
 
 ## How we built it
+Python is used exclusively as a programming language for data analysis and visualization. For a visual representation, NumPy, pandas, matplotlib, seaborn, and Plotly libraries were utilized. We used Chart-Studio's API to deploy the visualization on a Web application, which will be great for a better experience and explanation. We even created a simulation that will notify the user of the leaking. The model's components include an Arduino Uno, an MQ series sensor, a buzzer, and an LCD for displaying the alert message.
+
 
 ## Challenges we ran into
+In terms of dimension, the dataset used was quite complex (2795 rows, 48 columns). Because of the NaN values, unreported numbers, and so on, data pre-processing proved difficult. The Chart-Studio API was used to deliver the interactive visualizations created with Plotly to the web.
+
 
 ## Accomplishments that we're proud of
+We attempted to create a data science-based project aimed at analyzing oil leaks leading to accidents. We are happy that we created a simulation model that alerts administrators about the leakage, attempting to tackle a massive problem. Corrosion is the second leading cause of pipeline accidents, and we have provided a method to address it. On average, a company incurs an economic loss of around $1 million, and this initiative may assist in overcoming the same. The initiative will primarily aid the United States in making pipeline-accident prevention choices.
+
 
 ## What we learned
+We learned about various libraries such as NumPy, Pandas, Matplotlib, Seaborn, Plotly, etc. available in python for visualization and analysis. The Chart-studio's API for deploying the interactive graphs on the website. We also learned about using Tinkercad for giving simulating solution for gas/liquid detection.
+
+
 
 ## What's next for Opalution
+As we analyzed the dataset we came to a conclusion that the major two reason of this leakage is equipment failure and corrosion, and to over come that we are planning to use a ultrasonic testing which check for the width of the pipe and which help the user to know about the probability of the accident.
