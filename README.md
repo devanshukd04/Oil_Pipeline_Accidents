@@ -17,6 +17,10 @@ The United States must halt the fossil fuel epidemic and transition as soon as p
 There is a need to bring this issue into limelight by addressing it publicly and making everyone visualize the troubled history.
 
 
+## Dataset
+Department of Transportation. (2017). Oil Pipeline Accidents, 2010-Present  [Dataset]. Retrieved from https://www.kaggle.com/usdot/pipeline-accidents
+
+
 ## What it does
 **Opalution** is a solution provided for the prevention of oil pipeline accidents in the United States, based on analysis and visualization of the Oil Pipeline Accidents dataset. The dataset includes a record for each oil pipeline leak or spill reported to the Pipeline and Hazardous Materials Safety Administration since 2010. It aims to bring the facts into limelight through graphical representations of the accidents, costs, cause of accidents, fatalities, etc. The pipeline monitoring system is given as a solution which will alert them whenever leakage is detected.
 
